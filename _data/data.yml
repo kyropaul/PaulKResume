@@ -10,7 +10,7 @@ contact:
   location: Ontario, Canada # location
   email: paul.kotsamanes@gmail.com    # email address
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:     # site URL without schema, like example.com, will automatically prepand "https://"
+  website: paul.kotsamanes.ca    # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -94,16 +94,58 @@ experience:
 
   items:
     - company: Piller's Fine Foods, a div of PBOLP
-      link: '#'
+      link: 'https://www.pillers.com'
       tags: Full-time
-      date: 2002 - Current
+      date: 2019 - Current
       role: Technical Support Manager
       location: Waterloo, Ontario
       description: |
         Technical Support Manager
-        Sr Application Support Technician
-        Business Analyst
-        Production Technologist
+  items:
+    - company: Piller's Fine Foods, a div of PBOLP
+      link: 'https://www.pillers.com'
+      tags: Full-time
+      date: 2017 - 2019
+      role: Sr. Application Spcialist
+      location: Waterloo, Ontario
+      description: |
+        Manage and administer Piller’s applications. Provide support both internally and externally to those systems.
+  items:
+    - company: Piller's Fine Foods, a div of PBOLP
+      link: 'https://www.pillers.com'
+      tags: Full-time
+      date: 2015 - 2017
+      role: Buisness Anaylst
+      location: Waterloo, Ontario
+      description: |
+        Work with internal teams to streamline processes, and develop reports to communicate information across all levels of the company. Provide guidance on various projects including environmental requirements, health and safety, and food safety.
+  items:
+    - company: Piller's Fine Foods, a div of PBOLP
+      link: 'https://www.pillers.com'
+      tags: Full-time
+      date: 2002 - 2015
+      role: Production Technologist
+      location: Waterloo, Ontario
+      description: |
+        Utilized skills and experience to perform a wide range of management support tasks, including time studies, environmental reporting, and health and safety. Core team member on ERP projects.
+  items:
+    - company: ATS Systems
+      link: 
+      tags: Full-time
+      date: 2001
+      role: Co-Op CAD Designer
+      location: Cambridge, Ontario
+      description: |
+      While working as part of a design team, created, and modified AutoCAD and SolidWorks drawings and designs.
+  items:
+    - company: Guelph Tool and Die
+      link: 
+      tags: Full-time
+      date: 2000
+      role: Co-Op CAD Designer
+      location: Guelph, Ontario
+      description: |
+Performed maintenance on robotic MIG welding cells, including maintenance of MIG welding equipment, robotic system programming, and troubleshooting tasks.  
 
 project:
   show: false
