@@ -8,7 +8,7 @@ basic:
 contact:
   # meta
   location: Ontario, Canada # location
-  email: paul.kotsamanes+resume@gmail.com    # email address
+  email: paul.kotsamanes@gmail.com    # email address
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:     # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: https://github.com/kyropaul                 # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -95,27 +95,17 @@ experience:
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
+    - company: Piller's Fine Foods, a div of PBOLP
       link: '#'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: 2002 - Current
+      role: Technical Support Manager
+      location: Waterloo, Ontario
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Technical Support Manager
+        Sr Application Support Technician
+        Business Analyst
+        Production Technologist
 
 project:
   show: true
