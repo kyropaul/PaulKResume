@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Paul Kotsamanes                      # name
+  title: Technical Support Manager           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Ontario, Canada # location
+  email: paul.kotsamanes+resume@gmail.com    # email address
+  phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
