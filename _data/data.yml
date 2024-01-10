@@ -110,6 +110,42 @@ experience:
       location: Waterloo, Ontario
       description: |
         Manage and administer Piller’s applications. Provide support both internally and externally to those systems.
+    
+    - company: Piller's Fine Foods, a div of PBOLP
+      link: 'https://www.pillers.com'
+      tags: Full-time
+      date: 2015 - 2017
+      role: Buisness Anaylst
+      location: Waterloo, Ontario
+      description: |
+        Work with internal teams to streamline processes, and develop reports to communicate information across all levels of the company. Provide guidance on various projects including environmental requirements, health and safety, and food safety.
+
+    - company: Piller's Fine Foods, a div of PBOLP
+      link: 'https://www.pillers.com'
+      tags: Full-time
+      date: 2002 - 2015
+      role: Production Technologist
+      location: Waterloo, Ontario
+      description: |
+        Utilized skills and experience to perform a wide range of management support tasks, including time studies, environmental reporting, and health and safety. Core team member on ERP projects.
+
+    - company: ATS Systems
+      link: 
+      tags: Full-time
+      date: 2001
+      role: Co-Op CAD Designer
+      location: Cambridge, Ontario
+      description: |
+        While working as part of a design team, created, and modified AutoCAD and SolidWorks drawings and designs.
+        
+    - company: Guelph Tool and Die
+      link: 
+      tags: Full-time
+      date: 2000
+      role: Co-Op CAD Designer
+      location: Guelph, Ontario
+      description: |
+        Performed maintenance on robotic MIG welding cells, including maintenance of MIG welding equipment, robotic system programming, and troubleshooting tasks.  
 
 
 project:
@@ -202,7 +238,7 @@ education:
     - institution: Conestoga College
       link: '#'
       date: 2015 - 2018
-      major: Mechanical Engineering Technologist: Robotics and Automation
+      major: Mechanical Engineering Technologist Robotics and Automation
       degree: 
       description: |
         Program included training in design principals, process engineering and programming. Worked as a team to design and build a six-cell automated packaging system.
