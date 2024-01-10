@@ -136,7 +136,7 @@ experience:
       role: Co-Op CAD Designer
       location: Cambridge, Ontario
       description: |
-      While working as part of a design team, created, and modified AutoCAD and SolidWorks drawings and designs.
+        While working as part of a design team, created, and modified AutoCAD and SolidWorks drawings and designs.
   items:
     - company: Guelph Tool and Die
       link: 
@@ -145,7 +145,7 @@ experience:
       role: Co-Op CAD Designer
       location: Guelph, Ontario
       description: |
-Performed maintenance on robotic MIG welding cells, including maintenance of MIG welding equipment, robotic system programming, and troubleshooting tasks.  
+        Performed maintenance on robotic MIG welding cells, including maintenance of MIG welding equipment, robotic system programming, and troubleshooting tasks.  
 
 project:
   show: false
